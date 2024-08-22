@@ -8,9 +8,9 @@ To write a program to predict the profit of a city using the linear regression m
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. Load Data and Prepare: Load the dataset, extract features (X) and target (y), and add a bias term to X.
-2. Initialize Parameters: Initialize the parameters (theta) to zero.
-3. Compute and Optimize: Define the cost function and perform gradient descent to iteratively update theta.
+1. **Load Data and Prepare**: Load the dataset, extract features (X) and target (y), and add a bias term to X.
+2. **Initialize Parameters**: Initialize the parameters (theta) to zero.
+3. **Compute and Optimize**: Define the cost function and perform gradient descent to iteratively update theta.
 4. **Predict and Visualize**: Use the optimized theta to make predictions, plot the regression line, and predict for new data.
 
 ## Program:
