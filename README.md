@@ -78,7 +78,7 @@ print(f'Predicted profit for a city with population of 35,000: ${predicted_profi
 ```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/8748646e-0088-402f-855f-cf94d2e54821)
+![image](https://github.com/user-attachments/assets/045d9ffd-4d40-47cb-ac26-8500cd7e19c8)
 
 
 ## Result:
