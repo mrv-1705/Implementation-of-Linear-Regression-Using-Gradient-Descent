@@ -139,6 +139,9 @@ print(f"For Population = 70000, we predict a profit of ${round(predict2, 0)}")
 
 ## Output:
 ![download](https://github.com/user-attachments/assets/1f187abe-c863-45d9-b88c-3ad6a6d78514)
+##Cost Function:
+![image](https://github.com/user-attachments/assets/e5f862f1-a2ed-40c7-9783-ae9bbcdfe156)
+
 ![download](https://github.com/user-attachments/assets/1d98a48b-f7d9-42de-bdd2-f2e59744e2b7)
 ![download](https://github.com/user-attachments/assets/70ee20a6-eef1-4af5-913f-c305e98bf7d4)
 ![image](https://github.com/user-attachments/assets/6ce699ff-830b-41f5-838f-f87bc4fcdc78)
